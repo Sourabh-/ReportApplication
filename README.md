@@ -25,6 +25,4 @@ Report Application
 
 Run the mongo-script
 	
-	```
 	node mongoScript
-	```
