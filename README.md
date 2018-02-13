@@ -23,7 +23,7 @@ Report Application
 
 ## Post install for mongodb
 
-	Run the mongo-script
+Run the mongo-script
 	
 	```
 	node mongoScript
